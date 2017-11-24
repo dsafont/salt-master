@@ -4,6 +4,7 @@
 # Salt-Master Run Script
 #
 
+
 set -e
 
 # Log Level
